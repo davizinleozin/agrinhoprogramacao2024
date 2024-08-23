@@ -69,7 +69,7 @@ margin: 0;
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: #f808d0db;
     color: white;
 }
 
@@ -97,7 +97,7 @@ margin: 0;
 
 .rodapé{
     background-color: #300301;
-    color: #960903;
+    color: #a615e9;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
@@ -106,9 +106,9 @@ margin: 0;
 }
 
 .rodapé-imagem{
-    width: 70px;
+    width: 60px;
 }
 
 .rodapé-ícone{
-    width: 30px;
+    width: 60px;
 }
